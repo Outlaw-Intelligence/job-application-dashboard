@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Instagram remote-job lead post",
+    "url": "https://www.instagram.com/p/DY2OI5JEtp_/?igsh=MWFrcmxvZGs1cWpnbg==",
+    "type": "social lead source",
+    "status": "to triage",
+    "notes": "Captured from Dylan. Use as a lead source/signal, then verify actual roles on original company pages before applying."
+  },
+  {
+    "name": "Company career pages + Greenhouse/Lever boards",
+    "url": "https://www.greenhouse.com/",
+    "type": "direct company boards",
+    "status": "active daily sweep",
+    "notes": "Primary source for verified full-time remote AI/AI-adjacent roles."
+  },
+  {
+    "name": "LinkedIn recruiter and hiring-manager posts",
+    "url": "https://www.linkedin.com/jobs/",
+    "type": "network + job board",
+    "status": "active daily sweep",
+    "notes": "Watch posts, not just job listings; message humans when fit is strong."
+  },
+  {
+    "name": "Remote job feeds",
+    "url": "https://remoteok.com/remote-ai-jobs",
+    "type": "remote job feed",
+    "status": "active daily sweep",
+    "notes": "Lead generation only; every role must be verified at the source before application."
+  }
+]
