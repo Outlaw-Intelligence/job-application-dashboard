@@ -48,3 +48,8 @@ dashboard.sqlite3
 # Logs
 logs/
 *.log
+
+# Dashboard runtime state (local only)
+generated_packets/
+.jobops_last_sync.json
+*.bak
